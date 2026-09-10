@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+.env.*
+*.sql
+*.sqlite
+*.db
+storage/
+vendor/
